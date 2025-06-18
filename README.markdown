@@ -69,6 +69,18 @@ CHATBOT/
 - **Console Mode**: Offers a command-line interface for testing and development.
 - **Multi-Topic Support**: Covers admissions, courses (Engineering, BCA, MCA, Agriculture), fees, campus life, and more.
 
+## Screenshots
+
+Add images to showcase the chatbot interface and features.
+
+- **Chatbot Web Interface (Initial View)**:
+  ![Chatbot Initial Interface](https://raw.githubusercontent.com/hriturajnarvekar27/Chatbot/main/Screenshot%202025-06-18%20145329.png)
+  *Description*: The initial view of the chatbot web interface showing the greeting message.
+
+- **Chatbot Web Interface (Response View)**:
+  ![Chatbot Response Interface](https://raw.githubusercontent.com/hriturajnarvekar27/Chatbot/main/Screenshot%202025-06-18%20145353.png)
+  *Description*: The chatbot interface displaying a response to a user query.
+
 ## Installation
 
 ### Prerequisites
@@ -123,12 +135,6 @@ CHATBOT/
 
 ### Issues and Bugs
 Report any issues or suggest enhancements by opening an issue on the repository.
-
-## ScreenShots
-![Uploading Screenshot 2025-06-18 145329.png…]()
-
-![Uploading Screenshot 2025-06-18 145353.png…]()
-
 
 ## Acknowledgments
 
