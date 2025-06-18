@@ -143,6 +143,6 @@ Report any issues or suggest enhancements by opening an issue on the repository.
 
 ## Contact
 
-For questions or support, please reach out via the repository's issue tracker or [your email/contact info].
+For questions or support, please reach out via the repository's issue tracker or [ruturajnarvekar836@gmail.com].
 
 *Last updated: June 18, 2025*
